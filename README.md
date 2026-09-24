@@ -9,7 +9,7 @@
 **Author:** Pengfei Guo  
 **Affiliation:** 达妙科技 (DAMIAO Technology)  
 **License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — 非商业用途（学习与研究）自由使用，需注明出处，不授权商业用途  
-**AI Collaboration:** 内容由 Claude 与 Codex 辅助编写，经多轮双盲审核与基于互联网调研的事实核查
+**AI Collaboration:** 内容由 Claude 与 Codex 辅助编写，经多轮双盲审核与基于互联网调研的事实核查  
 **Usefull Web:** https://winstonjq.github.io/embodied-interview-qa/
 ---
 
